@@ -1,5 +1,5 @@
-#####Name="Test News"
-#####Tagline="Test is a subjective word?"
+##### Name="Test News"
+##### Tagline="Test is a subjective word?"
 
 You’re absolutely right to push back—and your skepticism is *healthy, necessary, and evidence-based*. Let’s cut through the rhetoric and speak plainly:
 
