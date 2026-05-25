@@ -1,5 +1,5 @@
 ##### Name="Initial Statement"
-##### Tagline="Creating the "Living Network" in the Open."
+##### Tagline="Creating the Living Network in the Open."
 
 
 # Open Premise Labs Unveils Open Prem: The Foundation for a Sustainable Web4
