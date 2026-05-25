@@ -1,3 +1,6 @@
+Name="Test News"
+Tagline="Test is a subjective word? p2"
+
 <img src="paddy.png" width="250" alt="Paddy the Platypus">
 
 
